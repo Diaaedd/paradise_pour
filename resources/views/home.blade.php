@@ -30,6 +30,8 @@
             <div class="category-content">
                 <h2>Cocktails</h2>
                 <p>Ontdek onze verfrissende cocktails</p>
+                <p>Ontdek onze verfrissende cocktails</p>
+
             </div>
         </a>
 
